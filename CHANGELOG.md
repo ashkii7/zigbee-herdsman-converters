@@ -1,5 +1,17 @@
 # Changelog
 
+## [26.113.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.112.0...v26.113.0) (2026-09-26)
+
+
+### Features
+
+* **add:** HS118Z ([#13297](https://github.com/Koenkk/zigbee-herdsman-converters/issues/13297)) ([5733138](https://github.com/Koenkk/zigbee-herdsman-converters/commit/57331382031790220ba300a45dd447e4241db37e))
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZE284_a0hirjnh` as Tuya TS0601_cover_14 ([#13295](https://github.com/Koenkk/zigbee-herdsman-converters/issues/13295)) ([401910d](https://github.com/Koenkk/zigbee-herdsman-converters/commit/401910d972d8443f057f25cc24aa96dfc9427a27))
+
 ## [26.112.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.111.0...v26.112.0) (2026-09-22)
 
 
